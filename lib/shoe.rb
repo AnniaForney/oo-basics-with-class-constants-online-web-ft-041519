@@ -11,7 +11,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-def brands
+def brand
   
+  puts "only keeps track of unique brands"
   end
 end
