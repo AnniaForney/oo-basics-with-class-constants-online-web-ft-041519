@@ -11,8 +11,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
-def brand
-  
+def brands
+  all.brands = "new"
   puts "only keeps track of unique brands"
   end
 end
